@@ -1,0 +1,31 @@
+{
+  "name": "js-mocking-fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript Mocking Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushrt/js-mocking-fundamentals.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "js",
+    "javascript",
+    "mock",
+    "mocking",
+    "jest"
+  ],
+  "author": "Matheus Souza <matheushrt@gmail.com> (https://github.com/matheushrt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheushrt/js-mocking-fundamentals/issues"
+  },
+  "homepage": "https://github.com/matheushrt/js-mocking-fundamentals#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
