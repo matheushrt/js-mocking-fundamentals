@@ -1,6 +1,6 @@
 const utils = require('./utils');
 
-function thumbWar(player1, player2) {
+const thumbWar = (player1, player2) => {
   const numberToWin = 2;
   let player1Wins = 0;
   let player2Wins = 0;
@@ -13,6 +13,6 @@ function thumbWar(player1, player2) {
     }
   }
   return player1Wins > player2Wins ? player1 : player2;
-}
+};
 
 module.exports = thumbWar;
