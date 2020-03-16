@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/matheushrt/js-mocking-fundamentals#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^25.1.0"
   }
 }
